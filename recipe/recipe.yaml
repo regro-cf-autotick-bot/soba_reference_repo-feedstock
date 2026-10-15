@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: soba_reference_repo
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/s/soba_reference_repo/soba_reference_repo-${{ version }}.tar.gz
-  sha256: f4ed0a4781091b2f04b9569fa1a8210e5344304d358d3b5126ad29d49078fe59
+  sha256: 898db148b699adb5550271db14a967fde7f88071bee82baf7f85761c2e001add
 
 build:
   number: 0
